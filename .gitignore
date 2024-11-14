@@ -1,0 +1,5 @@
+.streamlit
+
+*.txt
+.env
+.venv
